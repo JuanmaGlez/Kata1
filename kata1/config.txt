@@ -1,0 +1,11 @@
+1. Instalar Python 3.8.3
+2. Instalar Git 
+3. Instalar Visual Studio code
+4. Crear una Carpeta para las katas (HACKATHON)
+5. Abrirlo con VSC (File -> open folder)
+6. Crear repositorios de git (git init o 3º icono VSC con boton)
+7. git config --global user.email "Your email"
+8. git config --global user.name "Your Name"
+9. Crear Carpetas de kata 1 a 4 con main.py
+10. Hacer commint 
+Extra -> git log -> ver los commint del repositorios, se sale con la "q"
